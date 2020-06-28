@@ -90,6 +90,8 @@
     <Compile Include="Assets\UnityChan\Scripts\UnityChanControlScriptWithRgidBody.cs" />
     <Compile Include="Assets\_101\BallController.cs" />
     <Compile Include="Assets\_101\NetworkGameManager.cs" />
+    <Compile Include="Assets\_102 Rigidbody\CannonController.cs" />
+    <Compile Include="Assets\_102 Rigidbody\TankController.cs" />
     <Compile Include="Assets\_NetworkUnityChan\RigidbodyPlayerController.cs" />
     <None Include="Assets\UnityChan\Models\UnityChanShader\Shader\Unitychan_chara_fuku.shader" />
     <None Include="Assets\Photon\PhotonUnityNetworking\changelog.txt" />
